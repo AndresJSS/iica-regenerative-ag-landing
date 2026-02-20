@@ -1,0 +1,38 @@
+{
+  "hero-title": "Introduction to Regenerative Agriculture",
+  "hero-subtitle": "Innovations for Profitable and Resilient Farming",
+  "hero-cta": "Access the Free Training Course",
+  
+  "detail-duration-label": "Duration",
+  "detail-duration-val": "6 weeks",
+  "detail-effort-label": "Estimated Effort",
+  "detail-effort-val": "12 hours/week",
+  "detail-audience-label": "Designed For",
+  "detail-audience-val": "Farmers, students, and policymakers",
+  
+  "modules-title": "Course Modules",
+  "modules-subtitle": "Click on each module to explore the specific topics covered.",
+  
+  "mod-1": "Introduction to regenerative agriculture",
+  "mod-1-desc": "Explore the basic concepts, key outcomes, and the transition process towards regenerative agriculture. Learn about its global and local importance, community participation, and success stories.",
+  
+  "mod-2": "Unlocking soil health",
+  "mod-2-desc": "Understand the fundamentals of soil health, composition, and the carbon cycle in agricultural systems. Discover techniques to improve organic matter and fertility using organic fertilizers.",
+  
+  "mod-3": "Practices to minimize soil disturbance",
+  "mod-3-desc": "Learn about conservation tillage as the foundation for regenerative practices. Dive into minimum tillage methods, cover crops, and soil conservation structures.",
+  
+  "mod-4": "Biodiversity and agricultural ecosystems",
+  "mod-4-desc": "Master integrated crop management with approaches for pest, disease, and weed management (IWM), focusing on integrating biodiversity into farming systems.",
+  
+  "mod-5": "Crop diversity and agroforestry",
+  "mod-5-desc": "Compare monoculture with diversified systems. Discover principles and strategies for agricultural diversification, including multi-strata agroforestry planning and design.",
+  
+  "mod-extra": "Extra: Regenerative water management",
+  "mod-extra-desc": "A systemic approach to water conservation. Explore the soil-water nexus as the foundation of water resilience, featuring success stories like direct-seeded rice.",
+  
+  "footer-support-iica": "Having trouble accessing the course? e-learning@iica.int",
+  "footer-link-iica": "Visit IICA Website",
+  "footer-support-bayer": "Contact phone: +49 214 30-1",
+  "footer-link-bayer": "Visit Bayer Website"
+}

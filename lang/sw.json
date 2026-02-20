@@ -1,0 +1,38 @@
+{
+  "hero-title": "Utangulizi wa Kilimo Kihuishi",
+  "hero-subtitle": "Ubunifu kwa Kilimo Chenye Faida na Ustahimilivu",
+  "hero-cta": "Fikia Kozi ya Bure",
+  
+  "detail-duration-label": "Muda",
+  "detail-duration-val": "Wiki 6",
+  "detail-effort-label": "Muda Unaokadiriwa",
+  "detail-effort-val": "Saa 12/wiki",
+  "detail-audience-label": "Imelengwa Kwa",
+  "detail-audience-val": "Wakulima, wanafunzi, na watunga sera",
+  
+  "modules-title": "Moduli za Kozi",
+  "modules-subtitle": "Bofya kwenye kila moduli ili kuchunguza mada maalum zinazofundishwa.",
+  
+  "mod-1": "Utangulizi wa kilimo kihuishi",
+  "mod-1-desc": "Gundua dhana za msingi, matokeo muhimu, na mchakato wa mpito kuelekea kilimo kihuishi. Jifunze kuhusu umuhimu wake kimataifa na ndani ya nchi, ushiriki wa jamii, na hadithi za mafanikio.",
+  
+  "mod-2": "Kufungua afya ya udongo",
+  "mod-2-desc": "Elewa misingi ya afya ya udongo, muundo, na mzunguko wa kaboni katika mifumo ya kilimo. Gundua mbinu za kuboresha viumbe hai na rutuba kwa kutumia mbolea za asili.",
+  
+  "mod-3": "Taratibu za kupunguza usumbufu wa udongo",
+  "mod-3-desc": "Jifunze kuhusu kilimo cha uhifadhi kama msingi wa mazoea ya kihuishi. Ingia kwa kina katika mbinu za kilimo cha chini, mazao ya kufunika udongo, na miundombinu ya kuhifadhi udongo.",
+  
+  "mod-4": "Bioanuwai na mifumo ya ikolojia ya kilimo",
+  "mod-4-desc": "Miliki usimamizi jumuishi wa mazao na mbinu za udhibiti wa wadudu, magonjwa, na magugu (IWM), ukizingatia kuunganisha bioanuwai katika mifumo ya kilimo.",
+  
+  "mod-5": "Utofauti wa mazao na kilimo mseto",
+  "mod-5-desc": "Linganisha kilimo cha zao moja na mifumo tofauti. Gundua kanuni na mikakati ya utofauti wa kilimo, ikijumuisha mipango na usanifu wa kilimo mseto cha ngazi mbalimbali.",
+  
+  "mod-extra": "Ziada: Usimamizi kihuishi wa maji",
+  "mod-extra-desc": "Mbinu ya kimfumo ya uhifadhi wa maji. Gundua uhusiano wa udongo na maji kama msingi wa ustahimilivu wa maji, ukishirikisha hadithi za mafanikio kama mpunga wa kupandwa moja kwa moja.",
+  
+  "footer-support-iica": "Una tatizo la kufikia kozi? e-learning@iica.int",
+  "footer-link-iica": "Tembelea Tovuti ya IICA",
+  "footer-support-bayer": "Simu ya mawasiliano: +49 214 30-1",
+  "footer-link-bayer": "Tembelea Tovuti ya Bayer"
+}
