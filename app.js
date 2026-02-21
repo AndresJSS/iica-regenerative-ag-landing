@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Diccionario de enlaces a los cursos por idioma
     const courseUrls = {
-        'es': 'https://seed.iica.int/enrol/index.php?id=155',
+        'es': 'https://seed.iica.int/course/view.php?id=155',
         'en': 'https://seed.iica.int/enrol/index.php?id=153',
         'pt': 'https://seed.iica.int/enrol/index.php?id=156',
         'hi': 'https://seed.iica.int/enrol/index.php?id=157',
