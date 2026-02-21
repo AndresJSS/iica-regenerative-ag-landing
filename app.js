@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Diccionario de enlaces a los cursos por idioma
     const courseUrls = {
         'es': 'https://seed.iica.int/course/view.php?id=155',
-        'en': 'https://seed.iica.int/enrol/index.php?id=153',
-        'pt': 'https://seed.iica.int/enrol/index.php?id=156',
-        'hi': 'https://seed.iica.int/enrol/index.php?id=157',
-        'sw': 'https://seed.iica.int/enrol/index.php?id=158',
+        'en': 'https://seed.iica.int/course/view.php?id=153',
+        'pt': 'https://seed.iica.int/course/view.php?id=156',
+        'hi': 'https://seed.iica.int/course/view.php?id=157',
+        'sw': 'https://seed.iica.int/course/view.php?id=158',
     }
 
     // 2. Función para determinar el idioma del navegador
