@@ -10,7 +10,7 @@
   "detail-audience-label": "Designed For",
   "detail-audience-val": "Farmers, students, and policymakers",
   
-  "modules-title": "Course Modules",
+  "modules-title": "Training Modules",
   "modules-subtitle": "Click on each module to explore the specific topics covered.",
   
   "mod-1": "Introduction to regenerative agriculture",
@@ -33,6 +33,5 @@
   
   "footer-support-iica": "Having trouble accessing the course? e-learning@iica.int",
   "footer-link-iica": "Visit IICA Website",
-  "footer-support-bayer": "Contact phone: +49 214 30-1",
   "footer-link-bayer": "Visit Bayer Website"
 }
