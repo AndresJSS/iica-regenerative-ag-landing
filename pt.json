@@ -1,0 +1,37 @@
+{
+  "hero-title": "Introdução à Agricultura Regenerativa",
+  "hero-subtitle": "Inovações para uma agricultura rentável e resiliente",
+  "hero-cta": "Acessar o Curso Grátis",
+  
+  "detail-duration-label": "Duração",
+  "detail-duration-val": "6 semanas",
+  "detail-effort-label": "Dedicação estimada",
+  "detail-effort-val": "12 horas/semana",
+  "detail-audience-label": "Público-alvo",
+  "detail-audience-val": "Agricultores, estudantes e formuladores de políticas",
+  
+  "modules-title": "Módulos do Curso",
+  "modules-subtitle": "Clique em cada módulo para explorar os tópicos específicos.",
+  
+  "mod-1": "Introdução à agricultura regenerativa",
+  "mod-1-desc": "Explore os conceitos básicos, os principais resultados e o processo de transição para a agricultura regenerativa. Aprenda sobre sua importância global e local, a participação da comunidade e casos de sucesso.",
+  
+  "mod-2": "Desbloqueando a saúde do solo",
+  "mod-2-desc": "Compreenda os fundamentos da saúde do solo, composição e o ciclo do carbono em sistemas agrícolas. Descubra técnicas para melhorar a matéria orgânica e a fertilidade usando fertilizantes orgânicos.",
+  
+  "mod-3": "Práticas para minimizar a perturbação do solo",
+  "mod-3-desc": "Aprenda sobre o plantio direto e conservacionista como base para práticas regenerativas. Aprofunde-se em métodos de cultivo mínimo, plantas de cobertura e estruturas de conservação do solo.",
+  
+  "mod-4": "Biodiversidade e ecossistemas agrícolas",
+  "mod-4-desc": "Domine o manejo integrado de culturas com abordagens para o manejo de pragas, doenças e plantas daninhas (MIP), focando na integração da biodiversidade nos ecossistemas agrícolas.",
+  
+  "mod-5": "Diversidade de culturas e agrofloresta",
+  "mod-5-desc": "Compare a monocultura com sistemas diversificados. Descubra princípios e estratégias para a diversificação agrícola, incluindo planejamento e desenho de agroflorestas.",
+  
+  "mod-extra": "Extra: Gestão regenerativa da água",
+  "mod-extra-desc": "Uma abordagem sistêmica para a conservação da água. Explore o nexo solo-água como a base da resiliência hídrica, apresentando histórias de sucesso como o arroz de semeadura direta.",
+  
+  "footer-support-iica": "Problemas para acessar o curso? e-learning@iica.int",
+  "footer-link-iica": "Visitar site do IICA",
+  "footer-link-bayer": "Visitar site da Bayer"
+}
