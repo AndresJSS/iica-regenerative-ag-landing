@@ -1,5 +1,5 @@
 {
-  "hero-title": "Introdução à agricultura regenerativa",
+  "hero-title": "Introdução à Agricultura Regenerativa",
   "hero-subtitle": "Inovações para uma agricultura rentável e resiliente",
   "hero-cta": "Acessar o Curso Grátis",
   
@@ -31,6 +31,10 @@
   "mod-extra": "Extra: Gestão regenerativa da água",
   "mod-extra-desc": "Uma abordagem sistêmica para a conservação da água. Explore o nexo solo-água como a base da resiliência hídrica, apresentando histórias de sucesso como o arroz de semeadura direta.",
   
+  "nombre-IICA": "Instituto Interamericano de<br class='hidden md:block'>Cooperação para a Agricultura",
+  "IICA-info": "Sede Central. 600 m. nordeste do cruzamento Ipís-Coronado.<br>Vázquez de Coronado, San Isidro 11101 –<br>Costa Rica. San José, Costa Rica",
+  "BayerGlobal-info": "<strong>Sede Global (Incl. Proteção de Cultivos):</strong><br>Bayer AG<br>Divisão Crop Science<br>Alfred-Nobel-Str. 50<br>40789 Monheim am Rhein, Alemanha",
+  "BayerCropSc-info": "<strong>Sede Global de Sementes e Traits:</strong><br>Bayer<br>Divisão Crop Science<br>800 N. Lindbergh Blvd.<br>St. Louis, MO 63167",
   "footer-support-iica": "Problemas para acessar o curso? e-learning@iica.int",
   "footer-link-iica": "Visitar site do IICA",
   "footer-link-bayer": "Visitar site da Bayer"

@@ -31,8 +31,11 @@
   "mod-extra": "Extra: Gestión regenerativa del agua",
   "mod-extra-desc": "Un enfoque sistémico para la conservación del agua. Explora el nexo suelo-agua como la base de la resiliencia hídrica, destacando historias de éxito como el arroz de siembra directa.",
   
+  "nombre-IICA": "Instituto Interamericano de<br class='hidden md:block'>Cooperación para la Agricultura",
+  "IICA-info": "Sede Central. 600 m. noreste del cruce Ipís-Coronado.<br>Vázquez de Coronado, San Isidro 11101 –<br>Costa Rica. San José, Costa Rica",
+  "BayerGlobal-info": "<strong>Sede Global (Incl. Protección de Cultivos):</strong><br>Bayer AG<br>División Crop Science<br>Alfred-Nobel-Str. 50<br>40789 Monheim am Rhein, Alemania",
+  "BayerCropSc-info": "<strong>Sede Global de Semillas y Rasgos (Traits):</strong><br>Bayer<br>División Crop Science<br>800 N. Lindbergh Blvd.<br>St. Louis, MO 63167",
   "footer-support-iica": "¿Tienes problemas para acceder al curso? e-learning@iica.int",
   "footer-link-iica": "Visitar Sitio del IICA",
   "footer-link-bayer": "Visitar Sitio de Bayer"
-
 }

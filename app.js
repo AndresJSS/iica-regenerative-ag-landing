@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
             for (const key in translations) {
                 const element = document.getElementById(key);
                 if (element) {
-                    element.textContent = translations[key];
+                    element.innerHTML = translations[key];
                 }
             }
 
